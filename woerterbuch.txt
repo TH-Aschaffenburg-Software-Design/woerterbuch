@@ -4,3 +4,6 @@ Beschreibung: Eine große Pflanze mit Blättern und Stamm
 ---
 Wort: Irland
 Beschreibung: Ein Land auf einer Insel im Nordwesten Europas
+---
+Wort: Kürbis
+Beschreibung: Ein Gemüse
