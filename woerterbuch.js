@@ -1,5 +1,5 @@
 export async function ladeWoerter() {
-  const text = await (await fetch("woerterbuch.txt")).text();
+  const text = await (await fetch("woerterbuch.txt", { cache: "no-store" })).text();
   const feld = (eintrag, name) => eintrag.match(new RegExp(`^${name}:\\s*(.*)$`, "m"))?.[1];
   return text.split(/^---$/m)
     .map(e => ({ wort: feld(e, "Wort"), bild: feld(e, "Bild"), beschreibung: feld(e, "Beschreibung") }))
