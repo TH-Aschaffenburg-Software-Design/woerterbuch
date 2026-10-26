@@ -1,0 +1,6 @@
+Wort: Baum
+Bild: images/baum.png
+Beschreibung: Eine große Pflanze mit Blättern und Stamm
+---
+Wort: Irland
+Beschreibung: Ein Land auf einer Insel im Nordwesten Europas
