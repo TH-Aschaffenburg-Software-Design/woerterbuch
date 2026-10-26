@@ -6,4 +6,5 @@ Wort: Irland
 Beschreibung: Ein Land auf einer Insel im Nordwesten Europas
 ---
 Wort: Kürbis
+Bild: images/kuerbis.png
 Beschreibung: Ein Gemüse
