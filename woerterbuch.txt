@@ -2,6 +2,10 @@ Wort: Baum
 Bild: images/baum.png
 Beschreibung: Eine große Pflanze mit Blättern und Stamm
 ---
+Wort: Ball
+Bild: images/ball.png
+Beschreibung: Ein rundes Spielzeug
+---
 Wort: Irland
 Beschreibung: Ein Land auf einer Insel im Nordwesten Europas
 ---
